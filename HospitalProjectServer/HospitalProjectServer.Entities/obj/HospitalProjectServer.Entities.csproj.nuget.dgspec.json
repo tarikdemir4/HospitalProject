@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj": {}
+    "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj": {
+    "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj",
+        "projectUniqueName": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj",
         "projectName": "HospitalProjectServer.Entities",
-        "projectPath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj",
+        "projectPath": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj",
         "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\obj\\",
+        "outputPath": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",

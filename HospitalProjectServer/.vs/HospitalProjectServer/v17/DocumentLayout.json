@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\",
+  "WorkspaceRootPath": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71E7ADA8-5CA9-4912-8E2F-DC8C38603E1E}|HospitalProjectServer.WebAPI\\HospitalProjectServer.WebAPI.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|c:\\github\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.dataaccess\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|solutionrelative:hospitalprojectserver.dataaccess\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E7ADA8-5CA9-4912-8E2F-DC8C38603E1E}|HospitalProjectServer.WebAPI\\HospitalProjectServer.WebAPI.csproj|c:\\github\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71E7ADA8-5CA9-4912-8E2F-DC8C38603E1E}|HospitalProjectServer.WebAPI\\HospitalProjectServer.WebAPI.csproj|solutionrelative:hospitalprojectserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|c:\\github\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|solutionrelative:hospitalprojectserver.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|c:\\github\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|solutionrelative:hospitalprojectserver.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\configurations\\doctordetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\github\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\configurations\\doctordetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|solutionrelative:hospitalprojectserver.entities\\configurations\\doctordetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\github\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|solutionrelative:hospitalprojectserver.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\models\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\github\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\models\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|solutionrelative:hospitalprojectserver.entities\\models\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -67,10 +71,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.DataAccess\\Services\\AuthService.cs",
+              "ToolTip": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\Services\\AuthService.cs",
+              "RelativeToolTip": "HospitalProjectServer.DataAccess\\Services\\AuthService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:10:57.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "HospitalProjectServer.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\Program.cs",
               "RelativeToolTip": "HospitalProjectServer.WebAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,68 +96,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "HospitalProjectServer.DataAccess\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\DependencyInjection.cs",
+              "ToolTip": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\DependencyInjection.cs",
               "RelativeToolTip": "HospitalProjectServer.DataAccess\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:06:26.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoctorDetailConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
-              "RelativeDocumentMoniker": "HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
-              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
-              "RelativeToolTip": "HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:52:32.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:47:17.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DoctorDetail.cs",
-              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
-              "RelativeDocumentMoniker": "HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
-              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
-              "RelativeToolTip": "HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:41:29.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T18:06:26.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DoctorDetailConfiguration.cs",
+              "DocumentMoniker": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
+              "ToolTip": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
+              "RelativeToolTip": "HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:52:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:47:17.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorDetail.cs",
+              "DocumentMoniker": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
+              "ToolTip": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
+              "RelativeToolTip": "HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:41:29.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\User.cs",
+              "DocumentMoniker": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\User.cs",
               "RelativeDocumentMoniker": "HospitalProjectServer.Entities\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\User.cs",
+              "ToolTip": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\User.cs",
               "RelativeToolTip": "HospitalProjectServer.Entities\\Models\\User.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:42:56.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T16:42:56.989Z"
             }
           ]
         },

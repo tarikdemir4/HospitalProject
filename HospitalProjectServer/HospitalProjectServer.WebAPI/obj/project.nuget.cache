@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "70Ta/hQfRw8=",
+  "dgSpecHash": "zfpkneBQV7A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\HospitalProjectServer.WebAPI.csproj",
+  "projectFilePath": "C:\\GitHub\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\HospitalProjectServer.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\demir\\.nuget\\packages\\efcore.namingconventions\\8.0.3\\efcore.namingconventions.8.0.3.nupkg.sha512",
     "C:\\Users\\demir\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -51,11 +51,6 @@ internal class AuthService(
         return new LoginResponseDto(
             "token",
             "refreshToken",
-            DateTime.Now.AddDays(1),
-            user.Id,
-            user.Email,
-            user.FullName,
-            user.UserName,
-            user.UserType);
+            DateTime.Now.AddDays(1));
     }
 }
