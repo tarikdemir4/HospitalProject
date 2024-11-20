@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HospitalProjectServer.WebAPI.props" />
+</Project>

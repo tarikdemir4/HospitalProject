@@ -15,3 +15,5 @@ C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\Hospit
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.DataAccess\obj\Debug\net8.0\HospitalProjectServer.DataAccess.pdb
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.DataAccess\obj\Debug\net8.0\HospitalProjectServer.DataAccess.genruntimeconfig.cache
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.DataAccess\obj\Debug\net8.0\ref\HospitalProjectServer.DataAccess.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.DataAccess\bin\Debug\net8.0\HospitalProjectServer.Business.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.DataAccess\bin\Debug\net8.0\HospitalProjectServer.Business.pdb

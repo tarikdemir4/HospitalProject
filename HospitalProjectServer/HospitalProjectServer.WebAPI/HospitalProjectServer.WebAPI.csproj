@@ -15,10 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\HospitalProjectServer.DataAccess\HospitalProjectServer.DataAccess.csproj" />
     <ProjectReference Include="..\HospitalProjectServer.Entities\HospitalProjectServer.Entities.csproj" />
   </ItemGroup>
