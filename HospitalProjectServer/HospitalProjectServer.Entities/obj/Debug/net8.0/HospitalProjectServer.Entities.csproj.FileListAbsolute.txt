@@ -1,0 +1,12 @@
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\bin\Debug\net8.0\HospitalProjectServer.Entities.deps.json
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\bin\Debug\net8.0\HospitalProjectServer.Entities.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\bin\Debug\net8.0\HospitalProjectServer.Entities.pdb
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\HospitalProjectServer.Entities.csproj.AssemblyReference.cache
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\HospitalProjectServer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\HospitalProjectServer.Entities.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\HospitalProjectServer.Entities.AssemblyInfo.cs
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\HospitalProjectServer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\HospitalProjectServer.Entities.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\refint\HospitalProjectServer.Entities.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\HospitalProjectServer.Entities.pdb
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.Entities\obj\Debug\net8.0\ref\HospitalProjectServer.Entities.dll

@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E7ADA8-5CA9-4912-8E2F-DC8C38603E1E}|HospitalProjectServer.WebAPI\\HospitalProjectServer.WebAPI.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E7ADA8-5CA9-4912-8E2F-DC8C38603E1E}|HospitalProjectServer.WebAPI\\HospitalProjectServer.WebAPI.csproj|solutionrelative:hospitalprojectserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|solutionrelative:hospitalprojectserver.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92876E0-F9BE-4832-9DD9-2C0E9DB79C40}|HospitalProjectServer.DataAccess\\HospitalProjectServer.DataAccess.csproj|solutionrelative:hospitalprojectserver.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\configurations\\doctordetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|solutionrelative:hospitalprojectserver.entities\\configurations\\doctordetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|solutionrelative:hospitalprojectserver.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\hospitalproject\\hospitalprojectserver\\hospitalprojectserver.entities\\models\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E495600-72AD-4478-B081-3BB28407188D}|HospitalProjectServer.Entities\\HospitalProjectServer.Entities.csproj|solutionrelative:hospitalprojectserver.entities\\models\\doctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "HospitalProjectServer.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:16:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.DataAccess\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\DependencyInjection.cs",
+              "RelativeToolTip": "HospitalProjectServer.DataAccess\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:06:26.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorDetailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
+              "RelativeToolTip": "HospitalProjectServer.Entities\\Configurations\\DoctorDetailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:52:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HospitalProjectServer.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:47:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorDetail.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
+              "RelativeToolTip": "HospitalProjectServer.Entities\\Models\\DoctorDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:41:29.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HospitalProjectServer.Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.Entities\\Models\\User.cs",
+              "RelativeToolTip": "HospitalProjectServer.Entities\\Models\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:42:56.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1871,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2548,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
