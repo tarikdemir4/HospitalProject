@@ -6,11 +6,13 @@ using Microsoft.Extensions.DependencyInjection;
 namespace HospitalProjectServer.DataAccess;
 public static class DependencyInjection
 {
-    public static IServiceCollection AddDataAccess(this ServiceCollection services, IConfiguration configuration)
+    public static IServiceCollection AddDataAccess(
+        this IServiceCollection services,
+        IConfiguration configuration)
     {
         services.AddDbContext<ApplicationDbContext>(options =>
         {
-            options.UseNpgsql("").UseSnakeCaseNamingConvention();
+            options.UseNpgsql(configuration.GetConnectionString("PostgreSQL")).UseSnakeCaseNamingConvention();
         });
         return services;
     }
