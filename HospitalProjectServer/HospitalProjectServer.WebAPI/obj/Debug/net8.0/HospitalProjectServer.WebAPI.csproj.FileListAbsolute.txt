@@ -138,3 +138,4 @@ C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\Hospit
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Owin.dll
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\AutoMapper.dll

@@ -19,7 +19,7 @@ internal class AuthService(
         {
             return (500, "Refresh Token unavailable");
         }
-        var loginResponse = await jwtProvider.CreateToken(user);
+        var loginResponse = await jwtProvider.CreateToken(user,false);
         return loginResponse;
     }
 
@@ -59,7 +59,7 @@ internal class AuthService(
             return (500, "Your password is wrong");
         }
 
-        var loginResponse = await jwtProvider.CreateToken(user);
+        var loginResponse = await jwtProvider.CreateToken(user,request.RememberMe);
 
         return loginResponse;
     }

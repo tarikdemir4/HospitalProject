@@ -27,11 +27,4 @@ public class AuthController(IAuthService authService) : ControllerBase
 
         return StatusCode(response.StatusCode, response);
     }
-
-    [HttpGet]
-    [Authorize(AuthenticationSchemes = "Bearer")]
-    public IActionResult Get()
-    {
-        return Ok(new { Messages = "Giriş Başarılı!" });
-    }
 }

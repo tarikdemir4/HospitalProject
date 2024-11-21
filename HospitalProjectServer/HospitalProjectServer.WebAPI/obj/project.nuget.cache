@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EfzQYC5PF7A=",
+  "dgSpecHash": "6d2RVcHxJP0=",
   "success": true,
   "projectFilePath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\HospitalProject\\HospitalProjectServer\\HospitalProjectServer.WebAPI\\HospitalProjectServer.WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\demir\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\demir\\.nuget\\packages\\efcore.namingconventions\\8.0.3\\efcore.namingconventions.8.0.3.nupkg.sha512",
     "C:\\Users\\demir\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\demir\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.11\\microsoft.aspnetcore.authentication.jwtbearer.8.0.11.nupkg.sha512",

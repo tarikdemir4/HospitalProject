@@ -11,7 +11,7 @@ public sealed class User : IdentityUser<Guid>
 {
     public string FirstName { get; set; } = string.Empty;
     public string LastName { get; set; } = string.Empty;
-    public string FullName=>string.Join(" ", FirstName, LastName);
+    public string FullName => string.Join(" ", FirstName, LastName);
     public string IdentityNumber { get; set; } = string.Empty;
     public string FullAdress { get; set; } = string.Empty;
     public bool IsActive { get; set; } = true;
@@ -19,6 +19,8 @@ public sealed class User : IdentityUser<Guid>
     public DateOnly? DateOfBirth { get; set; }
     public string? BloodType { get; set; }
     public UserType UserType { get; set; } = UserType.User;
+    public int EmailConfirmCode { get; set; }
+    public DateTime EmailConfirmCodeSendDate { get; set; }
     public string? RefreshToken { get; set; }
     public DateTime? RefreshTokenExpires { get; set; }
     public Guid? DoctorDetailId { get; set; }

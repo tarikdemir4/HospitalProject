@@ -18,6 +18,9 @@ public static class DependencyInjection
         this IServiceCollection services,
         IConfiguration configuration)
     {
+
+        services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
         services.AddDbContext<ApplicationDbContext>(options =>
         {
             options
