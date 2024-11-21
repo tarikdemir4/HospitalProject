@@ -23,7 +23,6 @@ ExtensionsMiddleware.CreateFirstUser(app);
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
 
 app.MapControllers();
 

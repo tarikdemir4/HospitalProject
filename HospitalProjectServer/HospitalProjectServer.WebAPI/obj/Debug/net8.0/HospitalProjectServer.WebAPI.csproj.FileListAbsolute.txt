@@ -124,3 +124,17 @@ C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\Hospit
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\HospitalProjectServer.Business.dll
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\HospitalProjectServer.Business.pdb
 C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Scrutor.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.Owin.Security.Jwt.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\Owin.dll
+C:\Users\demir\Desktop\YeniProjeler\HospitalProject\HospitalProjectServer\HospitalProjectServer.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

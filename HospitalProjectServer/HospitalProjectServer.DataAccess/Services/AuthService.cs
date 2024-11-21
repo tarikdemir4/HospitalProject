@@ -9,15 +9,27 @@ using TS.Result;
 namespace HospitalProjectServer.DataAccess.Services;
 internal class AuthService(
     SignInManager<User> signInManager,
-    UserManager<User> userManager) : IAuthService
+    UserManager<User> userManager,
+    JwtProvider jwtProvider) : IAuthService
 {
+    public async Task<Result<LoginResponseDto>> GetTokenByRefreshTokenAsync(string refreshToken, CancellationToken cancellationToken)
+    {
+        User? user = await userManager.Users.Where(p => p.RefreshToken == refreshToken).FirstOrDefaultAsync(cancellationToken);
+        if (user is null)
+        {
+            return (500, "Refresh Token unavailable");
+        }
+        var loginResponse = await jwtProvider.CreateToken(user);
+        return loginResponse;
+    }
+
     public async Task<Result<LoginResponseDto>> LoginAsync(LoginRequestDto request, CancellationToken cancellationToken)
     {
-        string emailOrUserName = request.EmailOrUserName.ToUpper();
+        string emailOrUserName = request.EmailOrUserName;
         User? user = await userManager.Users
             .FirstOrDefaultAsync(p =>
-            p.NormalizedUserName == emailOrUserName ||
-            p.NormalizedEmail == emailOrUserName,
+            p.UserName == emailOrUserName ||
+            p.Email == emailOrUserName,
             cancellationToken);
 
         if (user is null)
@@ -47,10 +59,8 @@ internal class AuthService(
             return (500, "Your password is wrong");
         }
 
+        var loginResponse = await jwtProvider.CreateToken(user);
 
-        return new LoginResponseDto(
-            "token",
-            "refreshToken",
-            DateTime.Now.AddDays(1));
+        return loginResponse;
     }
 }

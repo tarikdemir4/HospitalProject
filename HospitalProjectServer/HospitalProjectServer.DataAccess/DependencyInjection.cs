@@ -1,11 +1,15 @@
 ﻿using HospitalProjectServer.DataAccess.Context;
+using HospitalProjectServer.DataAccess.Options;
+using HospitalProjectServer.DataAccess.Services;
 using HospitalProjectServer.Entities.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Tokens;
 using Scrutor;
 using System.Reflection;
+using System.Text;
 
 namespace HospitalProjectServer.DataAccess;
 public static class DependencyInjection
@@ -16,7 +20,9 @@ public static class DependencyInjection
     {
         services.AddDbContext<ApplicationDbContext>(options =>
         {
-            options.UseNpgsql(configuration.GetConnectionString("PostgreSQL")).UseSnakeCaseNamingConvention();
+            options
+            .UseNpgsql(configuration.GetConnectionString("PostgreSQL"))
+            .UseSnakeCaseNamingConvention();
         });
 
 
@@ -35,6 +41,16 @@ public static class DependencyInjection
             .AddEntityFrameworkStores<ApplicationDbContext>()
             .AddDefaultTokenProviders();
 
+
+        services.Configure<JwtOptions>(configuration.GetSection("Jwt"));
+
+        services.ConfigureOptions<JwtTokenOptionsSetup>();
+        services.AddAuthentication().AddJwtBearer();
+        services.AddAuthorization();
+
+
+        services.AddScoped<JwtProvider>();
+
         services.Scan(action =>
         {
             action
@@ -42,8 +58,12 @@ public static class DependencyInjection
             .AddClasses(publicOnly: false)
             .UsingRegistrationStrategy(RegistrationStrategy.Skip)
             .AsMatchingInterface()
+            .AsImplementedInterfaces()
             .WithScopedLifetime();
         });
+
+
+
 
         return services;
     }
