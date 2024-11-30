@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace HospitalProjectServer.DataAccess.Mapping;
 internal sealed class MappingProfile : Profile
 {
