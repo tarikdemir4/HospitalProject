@@ -9,6 +9,7 @@ public sealed class DoctorDetail
     {
         Id = Guid.NewGuid();
     }
+    
     public Guid Id { get; set; }
     public Specialty Specialty { get; set; } = Specialty.Acil;
     public List<string> WorkingDays { get; set; } = new();

@@ -12,5 +12,4 @@ public sealed record CreateAppointmentDto(
     string? BloodType,
     DateTime StartDate,
     DateTime EndDate,
-    decimal Price
-    );
+    decimal Price);

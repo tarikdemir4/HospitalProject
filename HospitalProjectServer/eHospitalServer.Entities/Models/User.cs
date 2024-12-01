@@ -16,17 +16,14 @@ public sealed class User : IdentityUser<Guid>
     public DateOnly? DateOfBirth { get; set; }
     public string? BloodType { get; set; }
     public UserType UserType { get; set; } = UserType.Patient;
-
     public int EmailConfirmCode { get; set; }
     public DateTime EmailConfirmCodeSendDate {  get; set; }
-
     public string? RefreshToken {  get; set; }
     public DateTime? RefreshTokenExpires { get; set; }
 
     [ForeignKey("DoctorDetail")]
     public Guid? DoctorDetailId { get; set; }
     public DoctorDetail? DoctorDetail { get; set; }
-
     public int? ForgotPasswordCode { get; set; }
     public DateTime? ForgotPasswordCodeSendDate { get; set; }
 }
