@@ -2,6 +2,4 @@
 using GenericRepository;
 
 namespace eHospitalServer.Entities.Repositories;
-public interface IAppointmentRepository : IRepository<Appointment>
-{
-}
+public interface IAppointmentRepository : IRepository<Appointment>{}
