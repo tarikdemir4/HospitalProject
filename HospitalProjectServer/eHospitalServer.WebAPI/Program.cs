@@ -26,9 +26,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
+
 app.UseCors();
 
 ExtensionsMiddleware.CreateFirstUser(app);
+
 
 app.Use(async (context, next) =>
 {
@@ -42,6 +45,8 @@ app.Use(async (context, next) =>
         throw;
     }
 });
+
+
 
 app.UseHttpsRedirection();
 app.MapControllers()
