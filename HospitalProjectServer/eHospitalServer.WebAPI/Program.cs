@@ -31,6 +31,7 @@ ExtensionsMiddleware.CreateFirstUser(app);
 
 app.Use(async (context, next) =>
 {
+    
     try
     {
         await next(context);
