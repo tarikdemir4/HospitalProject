@@ -24,8 +24,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
-
 app.UseCors();
 
 ExtensionsMiddleware.CreateFirstUser(app);
