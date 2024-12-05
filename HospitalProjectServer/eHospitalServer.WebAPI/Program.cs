@@ -26,7 +26,6 @@ if (app.Environment.IsDevelopment())
 }
 app.UseCors();
 
-
 ExtensionsMiddleware.CreateFirstUser(app);
 
 app.Use(async (context, next) =>
