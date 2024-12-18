@@ -5,9 +5,7 @@ using eHospitalServer.WebAPI.Middlewares;
 using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
 
-
 var builder = WebApplication.CreateBuilder(args);
-
 
 builder.Services.AddDefaultCors();
 builder.Services.AddBusiness();
@@ -16,21 +14,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
-
     app.UseSwagger();
     app.UseSwaggerUI();
-
-    
 }
 app.UseCors();
-
 ExtensionsMiddleware.CreateFirstUser(app);
-
 app.Use(async (context, next) =>
 {
     
@@ -45,8 +37,6 @@ app.Use(async (context, next) =>
     }
 });
 
-
-
 app.UseHttpsRedirection();
 app.MapControllers()
     .RequireAuthorization(policy =>
@@ -54,6 +44,5 @@ app.MapControllers()
         policy.RequireClaim(ClaimTypes.NameIdentifier);
         policy.AddAuthenticationSchemes("Bearer");
     });
-
 
 app.Run();
