@@ -6,7 +6,6 @@ using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
 
 var builder = WebApplication.CreateBuilder(args);
-
 builder.Services.AddDefaultCors();
 builder.Services.AddBusiness();
 builder.Services.AddDataAccess(builder.Configuration);
