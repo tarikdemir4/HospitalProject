@@ -44,7 +44,6 @@ app.Use(async (context, next) =>
     {
 
         await Console.Out.WriteLineAsync(ex.Message);
-
         throw;
         
     }
