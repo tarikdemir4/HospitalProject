@@ -45,7 +45,12 @@ app.Use(async (context, next) =>
 
         await Console.Out.WriteLineAsync(ex.Message);
         throw; 
+
     }
+
+
+
+
 });
 
 
@@ -54,9 +59,14 @@ app.Use(async (context, next) =>
 app.UseHttpsRedirection();
 
 app.MapControllers()
+
     .RequireAuthorization(policy =>
     {
-        policy.RequireClaim(ClaimTypes.NameIdentifier);
+
+
+        policy.RequireClaim(ClaimTypes.
+        
+        NameIdentifier);
         policy.AddAuthenticationSchemes("Bearer");
     });
 
