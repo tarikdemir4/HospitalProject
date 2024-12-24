@@ -62,7 +62,6 @@ app.MapControllers()
     .RequireAuthorization(policy =>
     {
 
-
         policy.RequireClaim(ClaimTypes.
         
         NameIdentifier);
