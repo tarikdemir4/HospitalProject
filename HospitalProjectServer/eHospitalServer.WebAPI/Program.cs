@@ -53,7 +53,6 @@ app.Use(async (context, next) =>
 
 });
 
-
 app.UseHttpsRedirection();
 
 app.MapControllers()
