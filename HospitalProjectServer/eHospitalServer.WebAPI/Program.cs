@@ -48,14 +48,10 @@ app.Use(async (context, next) =>
 
     }
 
-
-
-
 });
 
 app.UseHttpsRedirection();
 app.MapControllers()
-
     .RequireAuthorization(policy =>
     {
         policy.RequireClaim(ClaimTypes.
@@ -63,7 +59,4 @@ app.MapControllers()
         NameIdentifier);
         policy.AddAuthenticationSchemes("Bearer");
     });
-
-
-
 app.Run();
