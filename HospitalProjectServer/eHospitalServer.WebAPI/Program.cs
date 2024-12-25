@@ -42,12 +42,9 @@ app.Use(async (context, next) =>
     }
     catch (Exception ex)
     {
-
         await Console.Out.WriteLineAsync(ex.Message);
         throw; 
-
     }
-
 });
 
 app.UseHttpsRedirection();
