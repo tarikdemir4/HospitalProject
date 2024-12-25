@@ -59,4 +59,5 @@ app.MapControllers()
         NameIdentifier);
         policy.AddAuthenticationSchemes("Bearer");
     });
+    
 app.Run();
